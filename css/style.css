@@ -185,7 +185,7 @@ ul{
     position: relative;
     padding: 130px 0px 113px;
     text-align: center;
-    background: #8454F0 url(/img/bg_create-team.png) center bottom 75px no-repeat;
+    background: #8454F0 url(../img/bg_create-team.png) center bottom 75px no-repeat;
 }
 
 .question{
